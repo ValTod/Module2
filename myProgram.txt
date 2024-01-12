@@ -1,2 +1,6 @@
 Пиша си нещо тук!
 Качвам в Гитхъб.
+първо се инсталира това:
+https://git-for-windows.github.io/
+Git for Windows
+We bring the awesome Git VCS to Windows
