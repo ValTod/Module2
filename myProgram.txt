@@ -1,2 +1,7 @@
 Пиша си нещо тук!
 Качвам в Гитхъб.
+
+
+след като го инсталирате, сваляме и костенурката:
+https://tortoisegit.org/download/
+Download – TortoiseGit – Windows Shell Interface to Git
