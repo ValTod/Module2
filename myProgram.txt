@@ -6,4 +6,4 @@ https://git-for-windows.github.io/
 след като го инсталирате, сваляме и костенурката:
 https://tortoisegit.org/download/
 Download – TortoiseGit – Windows Shell Interface to Git
-
+New changes!
