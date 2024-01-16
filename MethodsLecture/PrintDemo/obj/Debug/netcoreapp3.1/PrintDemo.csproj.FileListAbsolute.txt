@@ -1,0 +1,27 @@
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.exe
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.deps.json
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.runtimeconfig.json
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.runtimeconfig.dev.json
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.dll
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.pdb
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.AssemblyInfoInputs.cache
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.AssemblyInfo.cs
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.csproj.CoreCompileInputs.cache
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.dll
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.pdb
+D:\00_Val_Tod\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.genruntimeconfig.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.exe
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.deps.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\bin\Debug\netcoreapp3.1\PrintDemo.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.csproj.AssemblyReference.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PrintDemo\obj\Debug\netcoreapp3.1\PrintDemo.genruntimeconfig.cache
