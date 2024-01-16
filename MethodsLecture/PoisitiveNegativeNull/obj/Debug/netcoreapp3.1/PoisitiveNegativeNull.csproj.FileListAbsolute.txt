@@ -1,0 +1,14 @@
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.exe
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.deps.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.runtimeconfig.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.runtimeconfig.dev.json
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\bin\Debug\netcoreapp3.1\PoisitiveNegativeNull.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.AssemblyInfoInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.AssemblyInfo.cs
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.csproj.CoreCompileInputs.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.dll
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.pdb
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.genruntimeconfig.cache
+D:\00_ValDocs\OneDrive - Ministry of Education and Science - Bulgaria\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\obj\Debug\netcoreapp3.1\PoisitiveNegativeNull.csproj.AssemblyReference.cache
