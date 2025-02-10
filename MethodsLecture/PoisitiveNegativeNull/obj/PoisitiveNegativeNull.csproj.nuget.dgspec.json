@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\11_клас\\01_М1_ООПиП\\SoftUni\\06-Methods\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj": {}
+    "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\22_IT-Career\\GitHub\\Module2\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj": {}
   },
   "projects": {
-    "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\11_клас\\01_М1_ООПиП\\SoftUni\\06-Methods\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj": {
+    "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\22_IT-Career\\GitHub\\Module2\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\11_клас\\01_М1_ООПиП\\SoftUni\\06-Methods\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj",
+        "projectUniqueName": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\22_IT-Career\\GitHub\\Module2\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj",
         "projectName": "PoisitiveNegativeNull",
-        "projectPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\11_клас\\01_М1_ООПиП\\SoftUni\\06-Methods\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj",
+        "projectPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\22_IT-Career\\GitHub\\Module2\\MethodsLecture\\PoisitiveNegativeNull\\PoisitiveNegativeNull.csproj",
         "packagesPath": "C:\\Users\\Val\\.nuget\\packages\\",
-        "outputPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\11_клас\\01_М1_ООПиП\\SoftUni\\06-Methods\\MethodsLecture\\PoisitiveNegativeNull\\obj\\",
+        "outputPath": "F:\\00_OneDrive\\OneDrive - Министерство на образованието и науката\\22_IT-Career\\GitHub\\Module2\\MethodsLecture\\PoisitiveNegativeNull\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -49,7 +56,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

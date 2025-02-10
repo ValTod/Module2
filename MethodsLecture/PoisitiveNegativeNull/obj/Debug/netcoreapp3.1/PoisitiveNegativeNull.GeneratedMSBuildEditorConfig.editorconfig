@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = PoisitiveNegativeNull
-build_property.ProjectDir = F:\00_OneDrive\OneDrive - Министерство на образованието и науката\11_клас\01_М1_ООПиП\SoftUni\06-Methods\MethodsLecture\PoisitiveNegativeNull\
+build_property.ProjectDir = F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\Module2\MethodsLecture\PoisitiveNegativeNull\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
